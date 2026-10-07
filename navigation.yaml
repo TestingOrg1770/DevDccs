@@ -36,7 +36,12 @@ navigation:
     icon: rocket
     roles:
       - "*"
-    children: []
+    children:
+      - id: cmuxyov5c000307og9alq01fw
+        group: New
+        expanded: false
+        hidden: false
+        children: []
   - id: cmuxsf9ev00il06okfyjn1zcv
     tab: Intro
     icon: send
