@@ -41,13 +41,13 @@ navigation:
         group: New
         expanded: false
         hidden: false
-        children: []
+        children:
+          - id: cmuxsj6bi00io06okkfymfc3e
+            page: Overview.md
+            title: Overview
   - id: cmuxsf9ev00il06okfyjn1zcv
     tab: Intro
     icon: send
     roles:
       - "*"
-    children:
-      - id: cmuxsj6bi00io06okkfymfc3e
-        page: Overview.md
-        title: Overview
+    children: []
