@@ -37,11 +37,15 @@ navigation:
     roles:
       - "*"
     children:
-      - id: cmuxyov5c000307og9alq01fw
-        group: New
-        expanded: false
-        hidden: false
-        children: []
+      - id: cmuxysjq4000d07ogty6zu3vk
+        page: auth-setup.md
+        title: Auth Setup
+      - id: cmuxysx3k000h07og4vod64x7
+        page: sync-engine.md
+        title: Sync Engine
+      - id: cmuxysryx000f07ognxbu0m72
+        page: database-schema.md
+        title: Database Schema
       - id: cmuxsj6bi00io06okkfymfc3e
         page: Overview.md
         title: Overview
