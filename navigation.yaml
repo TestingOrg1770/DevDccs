@@ -40,6 +40,9 @@ navigation:
       - id: cmuxysjq4000d07ogty6zu3vk
         page: auth-setup.md
         title: Auth Setup
+      - id: cmuxysx3k000h07og4vod64x7
+        page: sync-engine.md
+        title: Sync Engine
       - id: cmuxysryx000f07ognxbu0m72
         page: database-schema.md
         title: Database Schema
