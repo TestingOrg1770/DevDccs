@@ -40,6 +40,9 @@ navigation:
       - id: cmuxysjq4000d07ogty6zu3vk
         page: auth-setup.md
         title: Auth Setup
+      - id: cmuxysryx000f07ognxbu0m72
+        page: database-schema.md
+        title: Database Schema
       - id: cmuxyov5c000307og9alq01fw
         group: New
         expanded: false
