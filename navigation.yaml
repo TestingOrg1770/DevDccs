@@ -33,7 +33,7 @@ source:
 navigation:
   - id: cmuxsf9ev00il06okfyjn1zcv
     tab: Intro
-    icon: megaphone
+    icon: send
     roles:
       - "*"
     children: []
