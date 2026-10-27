@@ -15,6 +15,8 @@ title: "Sync Engine"
 3. **Queue Assignment**: Upload jobs are pushed to a Redis queue with a maximum concurrency limit of 5 jobs per user.
 4. **Storage Adapter Routing**: Chunks are streamed directly to the configured storage backend.
 
+<Video src="/assets/videos/Sample-1793086151395.mp4" />
+
 ## Error Handling Limits
 
 - **Retry Logic**: Failed chunk uploads are retried up to **3 times** before the job status changes to `FAILED`.
