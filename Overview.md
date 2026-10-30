@@ -15,6 +15,10 @@ CloudSync is a lightweight REST API designed for real-time file synchronization 
 3. **Database Layer**: PostgreSQL database for metadata storage and user mapping (see `database-schema.md`).
 4. **Troubleshooting & Support**: Common errors, logs, and diagnostic steps (see `troubleshooting.md`).
 
+<Info>
+  This is not a subjective concept
+</Info>
+
 ## System Requirements
 
 - Node.js v18.0 or higher
