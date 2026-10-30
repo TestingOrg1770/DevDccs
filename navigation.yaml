@@ -40,6 +40,9 @@ navigation:
       - id: cmuxsj6bi00io06okkfymfc3e
         page: Overview.md
         title: Overview
+        roles:
+          - admin
+          - editor
       - id: cmuxysjq4000d07ogty6zu3vk
         page: auth-setup.md
         title: Auth Setup
