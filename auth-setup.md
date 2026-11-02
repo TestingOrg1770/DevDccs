@@ -11,3 +11,5 @@ CloudSync uses JWT (JSON Web Tokens) for API session management and OAuth2 for a
 ## Environment Variables Configuration
 
 Set the following variables in your `.env` file:
+
+JWT is supported as main auth
