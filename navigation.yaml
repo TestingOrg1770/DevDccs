@@ -57,3 +57,8 @@ navigation:
           - id: cmuxysjq4000d07ogty6zu3vk
             page: auth-setup.md
             title: Auth Setup
+      - id: cmweqz58x00k307q2ns54jmsv
+        group: Controls
+        expanded: false
+        hidden: false
+        children: []
