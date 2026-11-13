@@ -1,3 +1,7 @@
+---
+title: "Rbac"
+---
+
 **Role-Based Access Control (RBAC)** is a security model that restricts system access to authorized users based on their organizational roles rather than their individual identities. Instead of assigning permissions directly to every user, administrators group permissions into roles (such as *Admin*, *Editor*, or *Viewer*) and then assign those roles to users.
 
 ### Core Components of RBAC
