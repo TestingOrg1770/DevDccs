@@ -61,4 +61,7 @@ navigation:
         group: Controls
         expanded: false
         hidden: false
-        children: []
+        children:
+          - id: cmweo3gcf00ip07q2fznogj0q
+            page: rbac.md
+            title: Rbac
