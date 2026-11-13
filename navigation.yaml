@@ -57,3 +57,6 @@ navigation:
           - id: cmuxysjq4000d07ogty6zu3vk
             page: auth-setup.md
             title: Auth Setup
+          - id: cmweo3gcf00ip07q2fznogj0q
+            page: rbac.md
+            title: Rbac
