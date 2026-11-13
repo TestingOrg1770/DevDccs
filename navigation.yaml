@@ -49,11 +49,11 @@ navigation:
       - id: cmuxysryx000f07ognxbu0m72
         page: database-schema.md
         title: Database Schema
-      - id: cmuxysjq4000d07ogty6zu3vk
-        page: auth-setup.md
-        title: Auth Setup
       - id: cmwenx71900hy07q2e6su5p3j
         group: Access
         expanded: false
         hidden: false
-        children: []
+        children:
+          - id: cmuxysjq4000d07ogty6zu3vk
+            page: auth-setup.md
+            title: Auth Setup
