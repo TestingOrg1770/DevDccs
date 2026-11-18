@@ -57,6 +57,12 @@ navigation:
           - id: cmuxysjq4000d07ogty6zu3vk
             page: auth-setup.md
             title: Auth Setup
+          - id: cmwltjndb00fv07on808v00th
+            page: notes/langchain.md
+            title: Langchain
+          - id: cmwltjnyv00fx07onogahb7ak
+            page: notes/rag.md
+            title: Rag
       - id: cmweqz58x00k307q2ns54jmsv
         group: Controls
         expanded: false
