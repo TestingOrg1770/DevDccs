@@ -43,12 +43,31 @@ navigation:
         roles:
           - admin
           - editor
-      - id: cmuxysjq4000d07ogty6zu3vk
-        page: auth-setup.md
-        title: Auth Setup
       - id: cmuxysx3k000h07og4vod64x7
         page: sync-engine.md
         title: Sync Engine
       - id: cmuxysryx000f07ognxbu0m72
         page: database-schema.md
         title: Database Schema
+      - id: cmwenx71900hy07q2e6su5p3j
+        group: Access
+        expanded: false
+        hidden: false
+        children:
+          - id: cmuxysjq4000d07ogty6zu3vk
+            page: auth-setup.md
+            title: Auth Setup
+          - id: cmwltjndb00fv07on808v00th
+            page: notes/langchain.md
+            title: Langchain
+          - id: cmwltjnyv00fx07onogahb7ak
+            page: notes/rag.md
+            title: Rag
+      - id: cmweqz58x00k307q2ns54jmsv
+        group: Controls
+        expanded: false
+        hidden: false
+        children:
+          - id: cmweo3gcf00ip07q2fznogj0q
+            page: rbac.md
+            title: Rbac
