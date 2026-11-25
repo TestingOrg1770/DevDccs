@@ -31,43 +31,43 @@ scope: all
 source:
   branch: feature/setup-nav
 navigation:
-  - id: cmww3f6zt000v5junvhkhpwwk
+  - id: cmuxxw1ai000107og11srbj4v
     tab: Getting started
     icon: rocket
     roles:
       - "*"
     children:
-      - id: cmww3f705000w5junp603vfxn
+      - id: cmuxsj6bi00io06okkfymfc3e
         page: Overview.md
         title: Overview
         roles:
           - admin
           - editor
-      - id: cmww3f70l000x5jun4ls6ph1o
+      - id: cmuxysx3k000h07og4vod64x7
         page: sync-engine.md
         title: Sync Engine
-      - id: cmww3f70n000y5junrs2i5fbx
+      - id: cmuxysryx000f07ognxbu0m72
         page: database-schema.md
         title: Database Schema
-      - id: cmww3f70p000z5junswy11q5q
+      - id: cmwenx71900hy07q2e6su5p3j
         group: Access
         expanded: false
         hidden: false
         children:
-          - id: cmww3f70s00105juna6cs4129
+          - id: cmuxysjq4000d07ogty6zu3vk
             page: auth-setup.md
             title: Auth Setup
-          - id: cmww3f70t00115junkfrcce6l
+          - id: cmwltjndb00fv07on808v00th
             page: notes/langchain.md
             title: Langchain
-          - id: cmww3f70u00125junylvrfufq
+          - id: cmwltjnyv00fx07onogahb7ak
             page: notes/rag.md
             title: Rag
-      - id: cmww3f70v00135junzh274d7h
+      - id: cmweqz58x00k307q2ns54jmsv
         group: Controls
         expanded: false
         hidden: false
         children:
-          - id: cmww3f70w00145junl7idg0mn
+          - id: cmweo3gcf00ip07q2fznogj0q
             page: rbac.md
             title: Rbac
