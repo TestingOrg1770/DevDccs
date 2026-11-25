@@ -1,3 +1,7 @@
+---
+title: "Langchain"
+---
+
 LangChain is an open-source framework and agent engineering platform designed to help developers build, orchestrate, and govern applications powered by large language models (LLMs).
 
 # Key Features & Ecosystem
