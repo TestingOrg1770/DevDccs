@@ -58,6 +58,7 @@ navigation:
           - id: cmww3f70s00105juna6cs4129
             page: auth-setup.md
             title: Auth Setup
+            internal: true
           - id: cmww3f70t00115junkfrcce6l
             page: notes/langchain.md
             title: Langchain
