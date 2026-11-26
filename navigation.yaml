@@ -46,6 +46,7 @@ navigation:
       - id: cmww3f70l000x5jun4ls6ph1o
         page: sync-engine.md
         title: Sync Engine
+        internal: true
       - id: cmww3f70n000y5junrs2i5fbx
         page: database-schema.md
         title: Database Schema
