@@ -54,6 +54,7 @@ navigation:
         group: Access
         expanded: false
         hidden: false
+        internal: true
         children:
           - id: cmuxysjq4000d07ogty6zu3vk
             page: auth-setup.md
